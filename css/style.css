@@ -1,0 +1,152 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style2 {
+    color: rgba(255,255,255,.85);
+    margin-left: 173px;
+    margin-top: 5px;
+    height: 20px
+  }
+  .style0 {
+    margin-left: 55px;
+    margin-top: 115px;
+    width: 270px;
+    height: 249px
+  }
+  .style1 {
+    background-image: url(https://yotako.io/images/dashboard/imagePlaceholder.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 91px;
+    margin-top: 17px;
+    width: 229px;
+    height: 243px;
+    flex-direction: column
+  }
+  .style4 {
+    color: rgba(255,255,255,.85);
+    margin-left: 67px;
+    margin-top: 205px;
+    height: 20px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style2 {
+    color: rgba(255,255,255,.85);
+    margin-left: 354px;
+    margin-top: 10px;
+    height: 41px
+  }
+  .style0 {
+    margin-left: 113px;
+    margin-top: 236px;
+    width: 553px;
+    height: 510px
+  }
+  .style1 {
+    background-image: url(https://yotako.io/images/dashboard/imagePlaceholder.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 186px;
+    margin-top: 35px;
+    width: 469px;
+    height: 498px;
+    flex-direction: column
+  }
+  .style4 {
+    color: rgba(255,255,255,.85);
+    margin-left: 137px;
+    margin-top: 420px;
+    height: 41px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style2 {
+    color: rgba(255,255,255,.85);
+    margin-left: 424px;
+    margin-top: 12px;
+    height: 49px
+  }
+  .style0 {
+    margin-left: 135px;
+    margin-top: 282px;
+    width: 662px;
+    height: 611px
+  }
+  .style1 {
+    background-image: url(https://yotako.io/images/dashboard/imagePlaceholder.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 223px;
+    margin-top: 42px;
+    width: 562px;
+    height: 596px;
+    flex-direction: column
+  }
+  .style4 {
+    color: rgba(255,255,255,.85);
+    margin-left: 164px;
+    margin-top: 503px;
+    height: 49px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style2 {
+    color: rgba(255,255,255,.85);
+    margin-left: 554px;
+    margin-top: 16px;
+    height: 64px
+  }
+  .style0 {
+    margin-left: 176px;
+    margin-top: 368px;
+    width: 864px;
+    height: 797px
+  }
+  .style1 {
+    background-image: url(https://yotako.io/images/dashboard/imagePlaceholder.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 291px;
+    margin-top: 54px;
+    width: 733px;
+    height: 778px;
+    flex-direction: column
+  }
+  .style4 {
+    color: rgba(255,255,255,.85);
+    margin-left: 214px;
+    margin-top: 656px;
+    height: 64px
+  }
+}
